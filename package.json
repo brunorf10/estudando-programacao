@@ -1,0 +1,12 @@
+{
+  "name": "treino_git",
+  "version": "1.0.0",
+  "description": "Essa é a versão da branch melhorias-ia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

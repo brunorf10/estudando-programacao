@@ -1,0 +1,21 @@
+# Dependências do projeto (se usar npm/yarn no futuro)
+node_modules/
+
+# Arquivos de sistema (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Configurações de editores (VS Code, etc)
+.vscode/
+.idea/
+
+# Logs e arquivos de erro
+*.log
+npm-debug.log*
+
+# Arquivos de build (se houver)
+dist/
+build/
+
+# Variáveis de ambiente (segurança)
+.env
