@@ -1,4 +1,3 @@
-# Treino Git
+## Treino de programação (git/github/dependencias/html/css/js)
 
-Essa é a versão da branch melhorias-ia
-# estudando-programacao
+####Essa é a área para anotacoes relacionadas ao estudo
